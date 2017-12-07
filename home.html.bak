@@ -1,8 +1,11 @@
 Hello GitHub
 
+<<<<<<< HEAD
 hello
 
 add by master
+=======
 add some code 
 
 add user function
+>>>>>>> user
